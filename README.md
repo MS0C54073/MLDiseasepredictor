@@ -1,7 +1,7 @@
 # ML-MT-WebApp
 <img src="https://cdn.activestate.com/wp-content/uploads/2018/10/machine-learning-healthcare-blog-hero-1200x799.jpg" width="1100" height="300" />
-<p> This is one of major project of my undergraduate degree program.</p>
-<p>Here, I have developed a disease predicting web app which using the concept of machine learning makes predictions about various diseases like Malaria, Pneumonia, Diabetes etc.</p>
+<p> This is a Healthcare project .</p>
+<p>Using an online Tutorial, I have developed a disease predicting web app sing the concept of machine learning. This app makes predictions about various diseases like Malaria, Pneumonia, Diabetes etc.</p>
 <li><p><b>linkedIn :</b>https://www.linkedin.com/in/musonda-salimu-a4a0b31b9/</p></li>
 <hr>
 <h3> Down below are the names of the various model files used:</h3>
